@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\bin\Debug\netcoreapp1.1\DemoList.deps.json
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\bin\Debug\netcoreapp1.1\DemoList.runtimeconfig.json
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\bin\Debug\netcoreapp1.1\DemoList.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\bin\Debug\netcoreapp1.1\DemoList.dll
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\bin\Debug\netcoreapp1.1\DemoList.pdb
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\obj\Debug\netcoreapp1.1\DemoList.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\obj\Debug\netcoreapp1.1\DemoList.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\obj\Debug\netcoreapp1.1\DemoList.dll
+C:\Users\Andrew\Desktop\Таня\Softline\UGMKTRANCE\DemoList\DemoList\DemoList\obj\Debug\netcoreapp1.1\DemoList.pdb
