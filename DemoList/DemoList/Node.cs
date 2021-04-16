@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DemoList
 {
-    class Node <T>
+   public class Node <T>
     {
         T data;
         Node <T> previus;

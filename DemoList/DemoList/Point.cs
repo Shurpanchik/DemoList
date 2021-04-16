@@ -7,7 +7,7 @@ namespace DemoList
     /// <summary>
     /// Класс точек, создан для иллюстрации работы со списком
     /// </summary>
-    class Point
+   public class Point
     {
         int x;
         int y;

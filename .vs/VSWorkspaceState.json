@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DemoList",
+    "\\DemoList\\DemoList"
   ],
+  "SelectedNode": "\\DemoList\\DemoList\\CircularList.cs",
   "PreviewInSolutionExplorer": false
 }
